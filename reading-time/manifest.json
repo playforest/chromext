@@ -1,0 +1,6 @@
+{
+    "manifest_version":3,
+    "name":"reading time",
+    "version":"1.0",
+    "description":"add reading time to chrome extension documentation articles"
+}
